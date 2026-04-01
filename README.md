@@ -25,8 +25,10 @@ An integrated tech ecosystem engineered to forge elite developers. We provide:
 ---
 
 ## 🏆 System Hierarchy & Direct Contact
-* ♜ **𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐜 𝐋𝐞𝐚𝐝:** [𝑺𝒐𝒏𝒈 𝑱𝒊𝒏 𝑾𝒐𝒐](https://wa.me/96597805334)
-* 👑 **𝐒𝐨𝐯𝐞𝐫𝐞𝐢𝐠𝐧 𝐄𝐱𝐞𝐜𝐮𝐭𝐨𝐫:** [⟨𝙺𝚒𝚢𝚘𝚝𝚊𝚔𝚊 𖦹 𝙰𝚢𝚊𝚗𝚘𝚔𝚘𝚞𝚓𝚒⟩](https://wa.me/201055719273)
+* ♜ **𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐜 𝐋𝐞𝐚𝐝:** 
+[𝑺𝒐𝒏𝒈 𝑱𝒊𝒏 𝑾𝒐𝒐](https://wa.me/96597805334)
+* 👑 **𝐒𝐨𝐯𝐞𝐫𝐞𝐢𝐠𝐧 𝐄𝐱𝐞𝐜𝐮𝐭𝐨𝐫:** 
+[⟨𝙺𝚒𝚢𝚘𝚝𝚊𝚔𝚊 𖦹 𝙰𝚢𝚊𝚗𝚘𝚔𝚘𝚞𝚓𝚒⟩](https://wa.me/201055719273)
 
 ---
 
