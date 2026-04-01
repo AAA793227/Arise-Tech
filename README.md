@@ -20,20 +20,13 @@ An integrated tech ecosystem engineered to forge elite developers. We provide:
 
 ## 🔗 Strategic Links
 * 💠 **Welcome Gate:** [Arise Tech Portal](https://songjinwoo1.github.io/Bot-Song-Jin-Woo/)
-* 🐙 **GitHub Hub:** [Insert Repository Link Here]
 * 📜 **System Channel:** [WhatsApp Broadcast](https://whatsapp.com/channel/0029VbCMlkj2ER6nzLnwpO3G)
 
 ---
 
-## 🛠️ System Support
-* 👤 **Support Line 01:** [Contact Global/KW](https://wa.me/96597805334)
-* 👤 **Support Line 02:** [Contact EG](https://wa.me/201055719273)
-
----
-
-## 🏆 System Hierarchy
-* ♜ **Strategic Lead:** `Song Jin Woo`
-* 👑 **Sovereign Executor:** `Kiyotaka Ayanokouji`
+## 🏆 System Hierarchy & Direct Contact
+* ♜ **𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐜 𝐋𝐞𝐚𝐝:** [𝑺𝒐𝒏𝒈 𝑱𝒊𝒏 𝑾𝒐𝒐](https://wa.me/96597805334)
+* 👑 **𝐒𝐨𝐯𝐞𝐫𝐞𝐢𝐠𝐧 𝐄𝐱𝐞𝐜𝐮𝐭𝐨𝐫:** [⟨𝙺𝚒𝚢𝚘𝚝𝚊𝚔𝚊 𖦹 𝙰𝚢𝚊𝚗𝚘𝚔𝚘𝚞𝚓𝚒⟩](https://wa.me/201055719273)
 
 ---
 
