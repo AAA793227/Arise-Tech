@@ -1,1 +1,58 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARISE | Home</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;900&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        :root {
+            --accent: #8b5cf6;
+            --bg: #030303;
+            --glass: rgba(255, 255, 255, 0.05);
+            --border: rgba(255, 255, 255, 0.07);
+        }
+        body {
+            background-color: var(--bg);
+            color: #fff;
+            font-family: 'Outfit', sans-serif;
+        }
+        .btn {
+            background: var(--accent);
+            color: #fff;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-weight: bold;
+            text-transform: uppercase;
+            margin: 10px 0;
+            display: inline-block;
+        }
+        .btn:hover {
+            background: #7b4ae3;
+        }
+    </style>
+</head>
+<body class="flex flex-col items-center justify-center min-h-screen">
+    <header>
+        <h1 class="text-4xl font-bold uppercase">Welcome to Arise</h1>
+        <p class="text-lg mt-4">Your ultimate platform for tech products.</p>
+    </header>
+    <main class="mt-10 w-full max-w-4xl">
+        <section>
+            <h2 class="text-2xl font-bold mb-4">Featured Products</h2>
+            <div id="products" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                <!-- المنتجات سيتم عرضها هنا -->
+                <div class="bg-glass p-4 rounded-lg">
+                    <h3 class="text-xl font-semibold text-accent">Bot Name</h3>
+                    <p>Description of the bot goes here...</p>
+                    <a href="#" class="btn">View on Telegram</a>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="mt-10">
+        <a href="dashboard.html" class="btn">Go to Dashboard</a>
+    </footer>
+</body>
+</html>
